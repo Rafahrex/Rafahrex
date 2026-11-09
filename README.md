@@ -35,6 +35,17 @@ social engineering and cloud security.
 - The featured lab includes root causes, remediation and a MITRE ATT&CK mapping; every lab ends with defensive takeaways
 - Screenshots reviewed, credentials redacted
 
+### [IT Audit Coursework](https://github.com/Rafahrex/it-audit-coursework)
+
+Risk assessment and audit planning for two fictional companies, using ISO 31000,
+ISO/IEC 27001, COBIT 2019 and ISO 15189.
+
+- **BlueTech CR (team):** 22-risk IT risk matrix and a 16-procedure audit work program for
+  an IoT water-quality platform. I wrote the procedures on cloud backups, OTA firmware
+  updates, malware and phishing, and business continuity
+- **Corporación Umbrella (individual):** risk assessment of a clinical laboratory, with 21
+  preventive, detective and corrective controls
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/rafael-eduardo-brenes-brenes) ·
