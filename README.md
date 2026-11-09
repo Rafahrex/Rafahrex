@@ -32,7 +32,7 @@ social engineering and cloud security.
 - **Featured lab:** [AWS S3 misconfiguration and leaked credentials](https://github.com/Rafahrex/cybersecurity-labs/tree/main/lab-05-aws-s3-misconfiguration).
   Starting from a domain name, I found publicly listable S3 buckets and recovered AWS keys
   from an exposed `.git` history, which gave access to every bucket in the account
-- Each lab covers the root cause, how to fix it and a MITRE ATT&CK mapping
+- The featured lab includes root causes, remediation and a MITRE ATT&CK mapping; every lab ends with defensive takeaways
 - Screenshots reviewed, credentials redacted
 
 ## Contact
